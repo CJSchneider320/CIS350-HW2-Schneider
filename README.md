@@ -10,4 +10,4 @@ Repository for personal CIS350 assignments
 ### Techical Background
 My favorite and most used language is Java. It could be that I learned it first, or it could be that Java is the language that I resonate with the best. I love object-oriented languages so Java fits the bill. I also am very familiar with python, though I am not a big fan of it. I also know a bit of C, but that language is tough for me to wrap my head around sometimes. I want to learn C++, C#, Kotlin, Ruby, and SQL pretty soon, as those all have different use cases amd they are all very common for their respective uses in a professional setting.
 
-[Banger meme ngl](https://pbs.twimg.com/media/FdLofhLXgAEwZOy?format=jpg&name=medium)
+![Banger meme ngl](https://pbs.twimg.com/media/FdLofhLXgAEwZOy?format=jpg&name=medium)
